@@ -4,6 +4,7 @@
 ## AIM
 To create a To-do Application with all features using JavaScript.
 
+
 ## ALGORITHM
 ### STEP 1
 Build the HTML structure (index.html).
